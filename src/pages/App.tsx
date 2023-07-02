@@ -1,4 +1,3 @@
-import React from 'react';
 import { Parallax, ParallaxProvider } from "react-scroll-parallax";
 import { Header } from "../components/Header";
 import { About } from "../components/About";
